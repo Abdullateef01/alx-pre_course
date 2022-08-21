@@ -1,1 +1,1 @@
- My second readme
+Learning how to navigate git and github 
